@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to this Pages
 
-You can use the [editor on GitHub](https://github.com/LOUYIJITUAN/LOUYIJITUAN.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+系统设计=基于表面肌电信号的不同手势识别 [index](https://blog.csdn.net/qq_42676879/article/details/108052413) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
